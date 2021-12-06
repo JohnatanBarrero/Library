@@ -1,0 +1,13 @@
+{
+    "@@locale": "es",
+    "Library": "Library Robin",
+    "SearchFor": "Busqueda de Libros",
+    "Author": "Autor",
+    "Favorites": "Favoritos",
+    "NameBook": "Nombre libro",
+    "BookAddFavorites": "Libro agregado a favoritos",
+    "Closed": "Cerrado",
+    "Tittle": "Titulo: ",
+    "AddToFavorites": "Agregar a favoritos",
+    "ViewDetail": "Ver Detalle"
+}
